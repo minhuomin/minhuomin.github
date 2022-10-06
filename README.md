@@ -1,2 +1,2 @@
 # minhuomin.github.io
-#theme:Cayman
+theme:Cayman
