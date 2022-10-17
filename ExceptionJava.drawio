@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T09:59:50.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.4.1" etag="v39zjudly2W7_7q-5zq0" type="github"><diagram id="MzsotIFrM_Mv4MeuGLss">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-17T14:28:37.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7I1ZvOVq4CMmL3EFuFcx" version="20.4.1" type="github">
+  <diagram id="MzsotIFrM_Mv4MeuGLss" name="第 1 页">
+    <mxGraphModel dx="1673" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;JVM&lt;br&gt;处理异常的方法：&lt;br&gt;输出异常信息&lt;br&gt;然后退出程序&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;main&lt;br&gt;&lt;/b&gt;&lt;b&gt;处理异常的方法：&lt;br&gt;&lt;/b&gt;&lt;b&gt;t-c-f处理&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;或者&lt;/font&gt;&lt;br&gt;throws向上抛出&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;f1方法&lt;br&gt;&lt;/b&gt;&lt;b&gt;处理异常的方法：&lt;br&gt;&lt;/b&gt;&lt;b&gt;t-c-f处理&lt;br&gt;&lt;font color=&quot;#ff6666&quot;&gt;或者&lt;/font&gt;&lt;br&gt;throws向上抛出&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="600" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;f2方法&lt;br&gt;throws抛出异常！！！&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="920" y="760" width="216" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-12" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="PIOpm3zW0Lj8cCA91hav-1" target="PIOpm3zW0Lj8cCA91hav-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="660" as="sourcePoint" />
+            <mxPoint x="750" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="500" as="sourcePoint" />
+            <mxPoint x="780" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-14" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" target="PIOpm3zW0Lj8cCA91hav-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="660" as="sourcePoint" />
+            <mxPoint x="1020" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=20;exitX=-0.006;exitY=0.671;exitDx=0;exitDy=0;entryX=0.359;entryY=1.014;entryDx=0;entryDy=0;strokeWidth=6;entryPerimeter=0;exitPerimeter=0;strokeColor=#FF6666;" edge="1" parent="1" source="PIOpm3zW0Lj8cCA91hav-2" target="PIOpm3zW0Lj8cCA91hav-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="450" as="sourcePoint" />
+            <mxPoint x="390" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=20;exitX=-0.006;exitY=0.671;exitDx=0;exitDy=0;entryX=0.359;entryY=1.014;entryDx=0;entryDy=0;strokeWidth=6;entryPerimeter=0;exitPerimeter=0;strokeColor=#FF6666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680.0000000000002" y="678.8399999999999" as="sourcePoint" />
+            <mxPoint x="513" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="561.2" y="678.3199999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=20;exitX=-0.006;exitY=0.671;exitDx=0;exitDy=0;entryX=0.359;entryY=1.014;entryDx=0;entryDy=0;strokeWidth=6;entryPerimeter=0;exitPerimeter=0;strokeColor=#FF6666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="838.8399999999999" as="sourcePoint" />
+            <mxPoint x="753" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="801.2" y="838.3199999999999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;throws向上抛出&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="420" y="645" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-20" value="&lt;b style=&quot;color: rgb(255, 102, 102); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;throws向上抛出&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="170" y="475" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF6666;strokeWidth=6;fontSize=20;fontColor=#FF6666;" edge="1" parent="1" source="PIOpm3zW0Lj8cCA91hav-18" target="PIOpm3zW0Lj8cCA91hav-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PIOpm3zW0Lj8cCA91hav-22" value="&lt;b style=&quot;color: rgb(255, 102, 102); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;throws向上抛出&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="650" y="795" width="180" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
