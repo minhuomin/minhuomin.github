@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T10:47:06.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.5.1" etag="Y1YYtMVxaVC4IlPAshFE" type="github"><diagram id="FdDvZByMF8WC8nqQxFZR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-10T12:21:57.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="e7MSzomOfB2V2TTWCixZ" version="20.5.1" type="github">
+  <diagram id="FdDvZByMF8WC8nqQxFZR" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IatzGm2wahWJcJKETiCP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="IatzGm2wahWJcJKETiCP-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="430" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-5" value="姓名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-7" value="成绩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="580" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-8" value="学号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-9" value="确定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="355" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="800" y="390" width="430" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-12" value="选择" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="860" y="440" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-14" value="输入：" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="860" y="510" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-15" value="确定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="955" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-16" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=20;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-21" value="姓名，学号，成绩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="860" y="580" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="480" width="280" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-18" value="姓名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="500" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-19" value="成绩" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="600" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IatzGm2wahWJcJKETiCP-20" value="学号" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="550" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
