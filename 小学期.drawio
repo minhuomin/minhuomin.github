@@ -1,1 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T09:11:35.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.5.3" etag="2iSf6nxH9jRac0oPLt5Y" type="github"><diagram id="f2q9J6uc1RWjgNhu8Z-x">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-11T18:11:28.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qiJ-SQw03wnaRy5QNOc_" version="20.5.3" type="github">
+  <diagram id="f2q9J6uc1RWjgNhu8Z-x" name="第 1 页">
+    <mxGraphModel dx="582" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="280" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yFeiuCHCkDN-VvV_zNLQ-3" target="yFeiuCHCkDN-VvV_zNLQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-3" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="270" y="220" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;店名&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;菜名&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;输入文本框&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-9" value="显示文本框" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="220" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="280" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=17;" edge="1" parent="1" source="yFeiuCHCkDN-VvV_zNLQ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-12" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="870" y="220" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 17px;&quot;&gt;输入文本框&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-14" value="显示文本框" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="790" y="290" width="220" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;店名1&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-18" value="店名2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-20" value="店名3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yFeiuCHCkDN-VvV_zNLQ-21" value="店名4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
